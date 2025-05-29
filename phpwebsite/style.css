@@ -1,0 +1,21 @@
+.logo
+{
+    width: 55px;
+    height: 45px;
+}
+
+body{
+    background-image: url(./images/bg.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-style
+{
+    background-color: #01cdcb;
+}
+
+.nav-style
+{
+    background-color:#0d0e0e;
+}
